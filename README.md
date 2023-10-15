@@ -4,10 +4,11 @@
 상품의 바코드를 스캔하거나 메뉴판을 촬영하면 자체 DB 및 문자 인식을 통해 할랄 푸드 여부를 알 수 있습니다.
 
 ## 주요 기능
-### 메뉴판 촬영 후 문자 인식, 바코드 인식
-ㅇㅇㅇ
+### 메인 화면, 메뉴판 촬영 후 문자 인식 결과, 바코드 인식 결과
+![image](https://github.com/takoyakimchi/HalalFlutterApp/assets/37261785/5acfc6ff-c16c-46b7-8733-04cb18dedecd)
+
 ### 게시판, 지도, 언어 선택
-ㅇㅇㅇ
+![image](https://github.com/takoyakimchi/HalalFlutterApp/assets/37261785/be0b74ab-bef3-48d6-a5b5-7b1ace0cf8de)
 
 ## 사용한 외부 API
 * 공공데이터포털 식품의약품안전처 바코드연계제품정보
