@@ -1,0 +1,64 @@
+{
+  "@@locale": "ko",
+
+  "titleMainScreen": "할랄 푸드 판별 앱",
+  "btnCheckMenu": "메뉴판으로 확인",
+  "btnReadBarcode": "바코드 인식",
+  "btnNearestHalal": "주변 할랄푸드 식당",
+  "btnPrayerTimes": "기도 시간 확인",
+  "btnQiblaDirection": "기도 방향 확인",
+  "btnRamadan": "라마단 달력",
+  "btnForum": "게시판",
+
+  "btnEnglish": "영어",
+
+  "getAnImageFrom": "다음에서 이미지 가져오기",
+  "camera": "카메라",
+  "gallery": "사진첩",
+
+  "halal": "할랄",
+  "haram": "금지",
+
+  "forum" : "게시판",
+  "goToMain" : "메인으로",
+  "makePost" : "게시글 작성",
+
+  "postUpload" : "게시글 작성",
+  "title" : "제목",
+  "author": "작성자",
+  "password": "비밀번호",
+  "upload" : "게시",
+  "content": "내용",
+
+  "board" : "게시판",
+  "wrongPassword": "암호가 틀렸습니다.",
+  "check" : "확인",
+  "delete" : "삭제",
+  "update": "수정",
+  "goToForum": "목록",
+
+  "reviewThisFood" : "음식을 평가해주세요",
+  "rate" : "음식에 대한 평가를 남겨 주세요: ",
+
+  "enterPassword" : "비밀번호를 입력해주세요",
+
+  "noProduct" : "상품이 존재하지 않습니다",
+  "apiServerError" : "API 서버 오류",
+  "apiServerError2" : "API 서버(2) 오류",
+  "barcodeInfo" : "바코드 정보",
+  "productName" : "상품명",
+  "allergyInfo" : "알러지 정보",
+
+  "halalIngredients": "할랄 재료",
+  "haramIngredients": "금기 재료",
+  "meatIngredients": "고기가 들어간 재료",
+  "ambiguousIngredients": "애매한 재료",
+  "foodRate": "평가 남기기",
+  "reviewsAndComments": "후기 및 평점",
+
+  "pleaseFillOutAllFields": "모든 항목을 빠짐없이 작성해 주세요.",
+
+  "setLanguage": "Language/언어",
+
+  "reply": "댓글"
+}

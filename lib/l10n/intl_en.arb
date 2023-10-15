@@ -1,0 +1,64 @@
+{
+  "@@locale": "en",
+
+  "titleMainScreen": "Halal Food Checker",
+  "btnCheckMenu": "Check Menu",
+  "btnReadBarcode": "Read Barcode",
+  "btnNearestHalal": "Halal Restaurants",
+  "btnPrayerTimes": "Prayer Times",
+  "btnQiblaDirection": "Qibla Direction",
+  "btnRamadan": "Ramadan Calender",
+  "btnForum": "Forum",
+
+  "btnEnglish": "English",
+
+  "getAnImageFrom": "Get an image from...",
+  "camera": "Camera",
+  "gallery": "Gallery",
+
+  "halal": "Halal",
+  "haram": "Haram",
+
+  "forum" : "Forum",
+  "goToMain" : "Go to Main",
+  "makePost" : "Make post",
+
+  "postUpload" : "Post upload",
+  "title" : "Title",
+  "author": "Author",
+  "password": "Password",
+  "upload" : "Upload",
+  "content" :"Content",
+
+  "board" : "View post",
+  "wrongPassword": "Wrong Password, please enter password again",
+  "check" : "Check",
+  "delete" : "Delete",
+  "update": "Update",
+  "goToForum": "Go to forum",
+
+  "reviewThisFood" : "Review this food",
+  "rate" : "Rate",
+
+  "enterPassword" : "Enter password",
+
+  "noProduct" : "Product does not exist.",
+  "apiServerError" : "API Server error",
+  "apiServerError2" : "API Server(2) error",
+  "barcodeInfo" : "Barcode Information",
+  "productName" : "Product Name",
+  "allergyInfo" : "Allergy Information",
+
+  "halalIngredients": "Halal Ingredients",
+  "haramIngredients": "Haram Ingredients",
+  "meatIngredients": "Meat Ingredients",
+  "ambiguousIngredients": "Ambiguous Ingredients",
+  "foodRate": "Food Rate!",
+  "reviewsAndComments": "Reviews and comments",
+
+  "pleaseFillOutAllFields": "Please fill out all fields.",
+
+  "setLanguage": "Set language",
+
+  "reply": "Reply"
+}

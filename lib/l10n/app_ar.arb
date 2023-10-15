@@ -1,0 +1,64 @@
+{
+  "@@locale": "ar",
+
+  "titleMainScreen": "فاحص الطعام الحلال",
+  "btnCheckMenu": "تحقق من القائمة",
+  "btnReadBarcode": "قراءة الباركود",
+  "btnNearestHalal": "أقرب مطاعم حلال",
+  "btnPrayerTimes": "أوقات الصلاة",
+  "btnQiblaDirection": "اتجاه القبلة",
+  "btnRamadan": "تقويم رمضان",
+  "btnForum": "تحميل المقال",
+
+  "btnEnglish": "English",
+
+  "getAnImageFrom": "الحصول على صورة من ...",
+  "camera": "آلة تصوير",
+  "gallery": "صالة عرض",
+
+  "halal": "حلال",
+  "haram": "حرام",
+
+  "forum" : "لوح الإعلانات",
+  "goToMain" : "انتقل إلى main",
+  "makePost" : "جعل آخر",
+
+  "postUpload" : "تحميل آخر",
+  "title" : "عنوان",
+  "author": "مؤلف",
+  "password": "كلمة المرور",
+  "upload" : "رفع",
+  "content": "محتوى",
+
+  "board" : "سبورة",
+  "wrongPassword": "كلمة مرور خاطئة ، الرجاء إدخال كلمة المرور مرة أخرى",
+  "check" : "يفحص",
+  "delete" : "يمسح",
+  "update": "تحديث",
+  "goToForum": "اذهب إلى المنتدى",
+
+  "reviewThisFood" : "مراجعة هذا الطعام",
+  "rate" : "درجة",
+
+  "enterPassword" : "الرجاء إدخال كلمة المرور",
+
+  "noProduct" : "المنتج غير موجود",
+  "apiServerError" : "API Server error",
+  "apiServerError2" : "API Server(2) error",
+  "barcodeInfo" : "معلومات الباركود",
+  "productName" : "اسم المنتج",
+  "allergyInfo" : "معلومات الحساسية",
+
+  "halalIngredients": "مكونات حلال",
+  "haramIngredients": "مكونات الحرم",
+  "meatIngredients": "مقادير اللحوم",
+  "ambiguousIngredients": "مكونات غامضة",
+  "foodRate": "معدل الغذاء!",
+  "reviewsAndComments": "الاستعراضات والتعليقات",
+
+  "pleaseFillOutAllFields": "يرجى ملء جميع الحقول.",
+
+  "setLanguage": "Language/لغة",
+
+  "reply": "Reply"
+}
