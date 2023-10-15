@@ -1,16 +1,16 @@
-# first_flutter_app
+# Halal Food Checker App
+대학교 4학년 졸업작품으로 개발한 모바일 애플리케이션입니다.  
+사용자 타겟은 한국에 거주하는 이슬람교 신자이며,  
+상품의 바코드를 스캔하거나 메뉴판을 촬영하면 자체 DB 및 문자 인식을 통해 할랄 푸드 여부를 알 수 있습니다.
 
-A new Flutter project.
+## 주요 기능
+### 메뉴판 촬영 후 문자 인식, 바코드 인식
+ㅇㅇㅇ
+### 게시판, 지도, 언어 선택
+ㅇㅇㅇ
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 사용한 외부 API
+* 공공데이터포털 식품의약품안전처 바코드연계제품정보
+* 공공데이터포털 한국식품안전관리인증원 HACCP 제품이미지 및 포장지표기정보
+* 네이버 Papago API
+* 네이버 CLOVA OCR API
