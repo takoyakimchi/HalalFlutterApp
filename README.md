@@ -5,10 +5,10 @@
 
 ## 주요 기능
 ### 메인 화면, 메뉴판 촬영 후 문자 인식 결과, 바코드 인식 결과
-![image](https://github.com/takoyakimchi/HalalFlutterApp/assets/37261785/5acfc6ff-c16c-46b7-8733-04cb18dedecd)
+![image](https://github.com/takoyakimchi/HalalFlutterApp/assets/37261785/96735ff3-90c1-4be1-88a3-0dcee971b546)
 
 ### 게시판, 지도, 언어 선택
-![image](https://github.com/takoyakimchi/HalalFlutterApp/assets/37261785/be0b74ab-bef3-48d6-a5b5-7b1ace0cf8de)
+![image](https://github.com/takoyakimchi/HalalFlutterApp/assets/37261785/76988e3b-b920-48d1-882d-9ddcc497402c)
 
 ## 사용한 외부 API
 * 공공데이터포털 식품의약품안전처 바코드연계제품정보
